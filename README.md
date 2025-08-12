@@ -3,6 +3,8 @@
 ###
 
 <h3 align="center">front End developer 💻</h3>
+<h3> About me 🎀</h3>
+<p>Fresh ITI graduate specialized in Front-End and Cross-Platform development. Currently working on a React project and seeking an opportunity to apply my skills and grow as a developer.</p>
 
 ###
 
