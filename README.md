@@ -60,4 +60,16 @@
 
 ---
 
-<!-- Optionally add a projects section, certifications, or achievements if you want! -->
+## 🎓 Certifications
+
+- **ITI Software Fundamentals Track**  
+  <sub>March 2025</sub>
+
+- **ITI Front-End and Cross-Platform Track**  
+  <sub>September 2025</sub>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=doaamohamed88.doaamohamed88&"  />
+</div>
